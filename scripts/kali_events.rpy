@@ -33892,265 +33892,265 @@ translate pt_br luciafriend_87c1d82d:
 translate pt_br luciajoin_62e123cc:
 
     # k "Hey [name]! I'm just getting ready for work. What's up?"
-    k ""
+    k "Ei [name]! Estava me arrumando pro trabalho. Precisa de algo?"
 
 # game/scripts/kali_events.rpy:9857
 translate pt_br luciajoin_86655326:
 
     # c "You still wear that?"
-    c ""
+    c "Você ainda usa isso?"
 
 # game/scripts/kali_events.rpy:9858
 translate pt_br luciajoin_ded2d9ba:
 
     # k "Well, yeah of course. I get a lot of tips this way."
-    k ""
+    k "Sim, mas é claro. Eu ganho muitas gorjetas usando esse traje."
 
 # game/scripts/kali_events.rpy:9859
 translate pt_br luciajoin_4b38db3a:
 
     # c "Does your boss know?"
-    c ""
+    c "E o seu chefe sabe disso?"
 
 # game/scripts/kali_events.rpy:9860
 translate pt_br luciajoin_9278e185:
 
     # k "I tried hiding it from him, but he found out... But after I showed him how much I was making, he was okay with it. In fact, he was thinking about hiring more bunny girls, haha."
-    k ""
+    k "Eu tentei esconder dele, mas ele descobriu... Mas depois que eu mostrei pra ele o quanto eu estava faturando, ele aceitou. Na verdade, ele estava pensando em contratar mais entregadoras coelhinas, haha."
 
 # game/scripts/kali_events.rpy:9861
 translate pt_br luciajoin_752a94ac:
 
     # q "Knock knock! Hello? Are you in there Kali?"
-    q ""
+    q "Kock kock! Olá? Cê tá aí Kali?"
 
 # game/scripts/kali_events.rpy:9863
 translate pt_br luciajoin_d69c1c74:
 
     # k "Hm? Who's that?"
-    k ""
+    k "Hm? Quem será?"
 
 # game/scripts/kali_events.rpy:9864
 translate pt_br luciajoin_13afc5c9:
 
     # c "No clue."
-    c ""
+    c "Não faço idéia."
 
 # game/scripts/kali_events.rpy:9865
 translate pt_br luciajoin_8807069f:
 
     # k "It sounds like a woman... And she knows my name..."
-    k ""
+    k "Parece com a voz de uma mulher... E ela sabe meu nome..."
 
 # game/scripts/kali_events.rpy:9867
 translate pt_br luciajoin_cf96fb2a:
 
     # lu "Oh my god, what are you wearing? Haha!"
-    lu ""
+    lu "Aí meu deus, o que que cê tá usando? Haha!"
 
 # game/scripts/kali_events.rpy:9868
 translate pt_br luciajoin_38c75a0a:
 
     # k "Lucy!? What the fuck!?"
-    k ""
+    k "Lucy!? Mas que porra!?"
 
 # game/scripts/kali_events.rpy:9869
 translate pt_br luciajoin_cabb354d:
 
     # lu "Damn girl! That's a sexy outfit!"
-    lu ""
+    lu "Vish garota! Esse traje é sexy!"
 
 # game/scripts/kali_events.rpy:9871
 translate pt_br luciajoin_a8a9147d:
 
     # lu "Oh no! Did I interrupt your alone time with my sister?"
-    lu ""
+    lu "Ah não! Eu interrompi vocês dois?"
 
 # game/scripts/kali_events.rpy:9872
 translate pt_br luciajoin_8a42cd56:
 
     # k "No! Shut up! I was just about to go to work!"
-    k ""
+    k "Não! Cala a boca! Eu estou indo trabalhar!"
 
 # game/scripts/kali_events.rpy:9874
 translate pt_br luciajoin_e4ca9f04:
 
     # lu "Oh come on Kali, that's such a bad lie! I know damn well you wouldn't ever go out in public like that..."
-    lu ""
+    lu "Ah qualé Kali, que mentira descarada! Eu sei que você nunca sairia em público usando isso..."
 
 # game/scripts/kali_events.rpy:9876
 translate pt_br luciajoin_a7c99c40:
 
     # lu "It's fine... I know what lovers do when they're alone. I'm not a child anymore..."
-    lu ""
+    lu "Tá tudo bem... Eu sei oque duas pessoas que se amam fazem quando estão sozinhas. Eu não sou mais uma criança..."
 
 # game/scripts/kali_events.rpy:9877
 translate pt_br luciajoin_606a1175:
 
     # k "Whatever!"
-    k ""
+    k "Foda-se!"
 
 # game/scripts/kali_events.rpy:9878
 translate pt_br luciajoin_a4de5de9:
 
     # k "What are you even doing here?"
-    k ""
+    k "O que você tá fazendo aqui?"
 
 # game/scripts/kali_events.rpy:9880
 translate pt_br luciajoin_925ff507:
 
     # lu "Weeeeeell... It turns out Dad has a mistress. I caught him red handed."
-    lu ""
+    lu "Beeeeeeem... Eu descobri que o nosso Pai tem uma amante. Eu peguei ele com a boca na butija."
 
 # game/scripts/kali_events.rpy:9881
 translate pt_br luciajoin_5c78f8ba:
 
     # k "What? Seriously?"
-    k ""
+    k "Que? sério?"
 
 # game/scripts/kali_events.rpy:9882
 translate pt_br luciajoin_0fa66b9c:
 
     # lu "I guess we can't really expect Dad to not fool around. Mom's been dead for so long, he's probably really lonely..."
-    lu ""
+    lu "Eu acho que isso já era de se esperar. Já faz tanto tempo da morte de nossa Mãe, ele provavelmente anda bem sozinho..."
 
 # game/scripts/kali_events.rpy:9883
 translate pt_br luciajoin_feea82bc:
 
     # lu "He also probably has a ton of girls trying to get on his good side for a promotion. I'm sure that doesn't help him either."
-    lu ""
+    lu "E provavelmente tem muitas garotas querendo tirar vantagem dele por uma promoção. Tenho certeza que isso não o ajuda também."
 
 # game/scripts/kali_events.rpy:9884
 translate pt_br luciajoin_db33181c:
 
     # lu "But it's kind of hard to look at him now that I saw... everything."
-    lu ""
+    lu "Mas é difícil olhar ele no olho agora que eu vi... tudo."
 
 # game/scripts/kali_events.rpy:9885
 translate pt_br luciajoin_c75fc130:
 
     # k "That's rough, sorry you had to see that."
-    k ""
+    k "Que merda, sinto que você tenha visto isso."
 
 # game/scripts/kali_events.rpy:9887
 translate pt_br luciajoin_2225e47f:
 
     # lu "It's whatever, now I get to stay with my big sister!"
-    lu ""
+    lu "Tanto faz, pelo menos agora eu posso ficar com a minha irmãzona!"
 
 # game/scripts/kali_events.rpy:9888
 translate pt_br luciajoin_aa971bac:
 
     # k "Wait what? Who said you could stay here? How did you even find me?"
-    k ""
+    k "Pera que? Quem disse que você pode ficar aqui? E como você me encontrou?"
 
 # game/scripts/kali_events.rpy:9889
 translate pt_br luciajoin_fdbb5c12:
 
     # lu "It's pretty easy to find you when I have the internet. And of course you'll let me stay with you! You wouldn't dump your little sister on the street, would you?"
-    lu ""
+    lu "Foi fácil, usei uma coisa chamada internet. E é claro que você vai me deixar ficar aqui! Você não jogaria sua maninha na sarjeta, jogaria?"
 
 # game/scripts/kali_events.rpy:9890
 translate pt_br luciajoin_8710082d:
 
     # k "Do you seriously not have a job yet?"
-    k ""
+    k "Você ainda não conseguiu um emprego?"
 
 # game/scripts/kali_events.rpy:9891
 translate pt_br luciajoin_577ccacd:
 
     # lu "Why would I? I never needed one... Dad let me have anything I needed."
-    lu ""
+    lu "Por que deveria? Nunca precisei de um... Pai me dá tudo que eu preciso."
 
 # game/scripts/kali_events.rpy:9892
 translate pt_br luciajoin_02422212:
 
     # k "Where would you even sleep?"
-    k ""
+    k "E onde você dormiria?"
 
 # game/scripts/kali_events.rpy:9893
 translate pt_br luciajoin_29866705:
 
     # lu "Aww, you're not going to let me have the bed? Fine... I brought something anyway, just a little floor mattress."
-    lu ""
+    lu "Aww, você não vai me deixar com sua cama? Beleza... Eu trouxe um colchãozinho."
 
 # game/scripts/kali_events.rpy:9894
 translate pt_br luciajoin_8a923ab2:
 
     # k "...Fine, just don't go through my stuff."
-    k ""
+    k "... Certo, só não mexe nas minhas coisas."
 
 # game/scripts/kali_events.rpy:9895
 translate pt_br luciajoin_85330840:
 
     # lu "Yay! I knew you weren't all ''whatever's''!"
-    lu ""
+    lu "Eba! Eu sabia que você não era toda ''tanto faz''!"
 
 # game/scripts/kali_events.rpy:9897
 translate pt_br luciajoin_a2788b5a:
 
     # k "Whatever..."
-    k ""
+    k "Tanto faz..."
 
 # game/scripts/kali_events.rpy:9898
 translate pt_br luciajoin_0cbba879:
 
     # k "-I mean!... Urgh, whatever..."
-    k ""
+    k "-Quer dizer! ... Urgh, tanto faz..."
 
 # game/scripts/kali_events.rpy:9899
 translate pt_br luciajoin_57d92abb:
 
     # lu "Hahaha! And don't worry, you won't even know I'm here! Honestly!"
-    lu ""
+    lu "Hahaha! E não se preocupa, você não vem nem reparar que eu tô aqui! Sério mesmo!"
 
 # game/scripts/kali_events.rpy:9900
 translate pt_br luciajoin_d75d7c25:
 
     # k "We'll see about that..."
-    k ""
+    k "É oque veremos..."
 
 # game/scripts/kali_events.rpy:9902
 translate pt_br luciajoin_f9e6224f:
 
     # lu "You know [name], my bed has room for 2..."
-    lu ""
+    lu "Sabe [name], minha cama tem espaço para dois..."
 
 # game/scripts/kali_events.rpy:9903
 translate pt_br luciajoin_f8f8e4ad:
 
     # k "No you don't you little slut."
-    k ""
+    k "Não, nem começa sua vadiazinha."
 
 # game/scripts/kali_events.rpy:9905
 translate pt_br luciajoin_54700357:
 
     # lu "Hahaha, it was only a joke!"
-    lu ""
+    lu "Hahaha, eu só tava brincando!"
 
 # game/scripts/kali_events.rpy:9907
 translate pt_br luciajoin_6a3ab0a6:
 
     # lu "Oh hey! This totally means you're my brother in law, doesn't it [name]?"
-    lu ""
+    lu "Oh pera! Isso quer dizer que você agora é meu cunhado, não é [name]?"
 
 # game/scripts/kali_events.rpy:9908
 translate pt_br luciajoin_3a2775d5:
 
     # k "We're not married."
-    k ""
+    k "Nós não estamos casados."
 
 # game/scripts/kali_events.rpy:9909
 translate pt_br luciajoin_efe8b05c:
 
     # lu "Not yet! But that doesn't stop me from calling him big brother, heheh!"
-    lu ""
+    lu "Ainda não! Mas isso não me impede de chamar ele de irmãozão, heheh!"
 
 # game/scripts/kali_events.rpy:9910
 translate pt_br luciajoin_357af3a4:
 
     # k "Urgh..."
-    k ""
+    k "Urgh..."
 
 # game/scripts/kali_events.rpy:9917
 translate pt_br kalispringtext_dbc0669e:
