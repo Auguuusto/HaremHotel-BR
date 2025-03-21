@@ -33352,541 +33352,541 @@ translate pt_br kalihangdone_d07a591f:
 translate pt_br luciafriend_a003834f:
 
     # lu "Boring... Boring... Hmmm..."
-    lu ""
+    lu "Chato... Chato... Hmmm..."
 
 # game/scripts/kali_events.rpy:9732
 translate pt_br luciafriend_9ebcdcd8:
 
     # lu "Oh, that's a fancy red dress..."
-    lu ""
+    lu "Oh, que vestido vermelho chique..."
 
 # game/scripts/kali_events.rpy:9733
 translate pt_br luciafriend_0e5adc71:
 
     # lu "Oooooh!"
-    lu ""
+    lu "Oooooh!"
 
 # game/scripts/kali_events.rpy:9735
 translate pt_br luciafriend_1b249f6b:
 
     # lu "Who knew you were such a pervert Kali? Hahaha!"
-    lu ""
+    lu "Quem diria que você era uma Kali tão safadinha? Hahaha!"
 
 # game/scripts/kali_events.rpy:9736
 translate pt_br luciafriend_f0ced7ff:
 
     # lu "Hmmm, guess it runs in the family..."
-    lu ""
+    lu "Hmmm, acho que é de família..."
 
 # game/scripts/kali_events.rpy:9738
 translate pt_br luciafriend_e6506abc:
 
     # lu "Oh! Hey [name]."
-    lu ""
+    lu "Oh! E aí [name]."
 
 # game/scripts/kali_events.rpy:9739
 translate pt_br luciafriend_506c11b1:
 
     # c "What are you doing?"
-    c ""
+    c "O que você tá fazendo?"
 
 # game/scripts/kali_events.rpy:9741
 translate pt_br luciafriend_e65f807b:
 
     # lu "Ohhhh, nothing... Just finding a place to keep my clothes."
-    lu ""
+    lu "Ohhhh, nada... Só procurando um lugar para guardar as minhas roupas."
 
 # game/scripts/kali_events.rpy:9743
 translate pt_br luciafriend_10a67da6:
 
     # lu "Why? Do you miss your girlfriend already? She'll be back soon..."
-    lu ""
+    lu "Por que? Já tá com saudade da sua namorada? Daqui a pouco ela tá de volta..."
 
 # game/scripts/kali_events.rpy:9744
 translate pt_br luciafriend_5288ee19:
 
     # c "Should you be going through her stuff?"
-    c ""
+    c "Você pode mexer nas coisas delas?"
 
 # game/scripts/kali_events.rpy:9746
 translate pt_br luciafriend_2598749a:
 
     # lu "Hmmm... Probably not..."
-    lu ""
+    lu "Hmmm... Provavelmente não..."
 
 # game/scripts/kali_events.rpy:9748
 translate pt_br luciafriend_c475c0ac:
 
     # lu "But what she doesn't know won't hurt her, right?"
-    lu ""
+    lu "Mas oque os olhos não veem o coração não sente, né?"
 
 # game/scripts/kali_events.rpy:9750
 translate pt_br luciafriend_b6f13cc7:
 
     # lu "She doesn't have much to hide anyway. Unlike our Dad..."
-    lu ""
+    lu "Ela não tem muito a esconder de qualquer forma. Diferente do nosso Pai..."
 
 # game/scripts/kali_events.rpy:9751
 translate pt_br luciafriend_8af16799:
 
     # lu "I bet she keeps all of her secrets in her computer. If only I knew the password..."
-    lu ""
+    lu "Aposto que ela guarda todos os segredos no computador. Se eu ao menos soubesse a senha..."
 
 # game/scripts/kali_events.rpy:9752
 translate pt_br luciafriend_0f27e0b8:
 
     # lu "She probably watches a ton of porn on that thing. Why else would she have such a big vibrator?"
-    lu ""
+    lu "Ela provavelmente assisto um monte de pornô naquela coisa. Por que mais ela teria um vibrador tão grande?"
 
 # game/scripts/kali_events.rpy:9753
 translate pt_br luciafriend_04abae41:
 
     # c "I don't think she's used that thing in a long time."
-    c ""
+    c "Eu acho que já faz um bom tempo que ela não usa mais aquela coisa."
 
 # game/scripts/kali_events.rpy:9755
 translate pt_br luciafriend_bff0a771:
 
     # lu "Oh? What's that supposed to mean? Keeping her satisfied?"
-    lu ""
+    lu "Oh? O que cê tá querendo dizer? Que você a satisfaz?"
 
 # game/scripts/kali_events.rpy:9758
 translate pt_br luciafriend_c3e8defb:
 
     # lu "Heheheh, I guess there's a side to Kali I never knew."
-    lu ""
+    lu "Heheheh, acho que tem um lado da Kali que eu não conhecia."
 
 # game/scripts/kali_events.rpy:9760
 translate pt_br luciafriend_e77cab2d:
 
     # lu "You know, I hear two is always better than one."
-    lu ""
+    lu "Você conhece o ditado, um é bom, dois é melhor."
 
 # game/scripts/kali_events.rpy:9763
 translate pt_br luciafriend_9dbd7693:
 
     # lu "Aww, it was just a joke... Don't be so serious."
-    lu ""
+    lu "Aww, só tava zuando... Não precisa ser tão sério."
 
 # game/scripts/kali_events.rpy:9765
 translate pt_br luciafriend_ece96b41:
 
     # lu "Hey! Why don't you show me around? Does Kali have any friends here?"
-    lu ""
+    lu "Ei! Por que você não me apresenta o lugar? A Kali tem amigos aqui?"
 
 # game/scripts/kali_events.rpy:9766
 translate pt_br luciafriend_44b90a01:
 
     # c "I guess she's friendly with Lin."
-    c ""
+    c "Eu acho que ela e a Lin são amigas."
 
 # game/scripts/kali_events.rpy:9767
 translate pt_br luciafriend_0bbecf94:
 
     # lu "*gasp*! So she does have friends! You've got to take her to me, I would love to meet her!"
-    lu ""
+    lu "*suspiro*! Então ela tem amigos! Você precisa nos apresentar, eu adoraria conhece-la!"
 
 # game/scripts/kali_events.rpy:9768
 translate pt_br luciafriend_b2372adf:
 
     # c "She may be a bit busy right now."
-    c ""
+    c "Ela deve estar ocupada agora."
 
 # game/scripts/kali_events.rpy:9769
 translate pt_br luciafriend_40f4f179:
 
     # lu "Aw, come on! Please?"
-    lu ""
+    lu "Aw, qualé! Por favor?"
 
 # game/scripts/kali_events.rpy:9770
 translate pt_br luciafriend_a32501a6:
 
     # c "...Alright, I'll see what I can do."
-    c ""
+    c "... Tá bem, eu vou ver sobre isso."
 
 # game/scripts/kali_events.rpy:9772
 translate pt_br luciafriend_95fd3a8a:
 
     # lu "Thanks cutie..."
-    lu ""
+    lu "Obrigada, gracinha..."
 
 # game/scripts/kali_events.rpy:9774
 translate pt_br luciafriend_2616a898:
 
     # "You wander the hotel in search for Lin, after finding her you ask her to come visit Kali's room..."
-    ""
+    "Você vaga pelo hotel a procura de Lin, quando a encontra, você pede para ela ir ao quarto de Kali..."
 
 # game/scripts/kali_events.rpy:9776
 translate pt_br luciafriend_d5707e4e:
 
     # l "Um... Who is this [linoname]?"
-    l ""
+    l "Um... Quem é essa, [linoname]?"
 
 # game/scripts/kali_events.rpy:9777
 translate pt_br luciafriend_c843d2d4:
 
     # lu "My name's Lucia, but you can call me Lucy."
-    lu ""
+    lu "Meu nome é Lucia, mas pode me chamar de Lucy."
 
 # game/scripts/kali_events.rpy:9778
 translate pt_br luciafriend_62b7c6e3:
 
     # l "Oh, Hi Lucy. My name is Lin."
-    l ""
+    l "Oh, oi Lucy. Meu nome é Lin."
 
 # game/scripts/kali_events.rpy:9779
 translate pt_br luciafriend_963dd53f:
 
     # lu "Hahaha! She would be friends with an Elf..."
-    lu ""
+    lu "Hahaha! Então ela é amiga de uma Elfa..."
 
 # game/scripts/kali_events.rpy:9780
 translate pt_br luciafriend_df988f31:
 
     # l "What is that supposed to mean...?"
-    l ""
+    l "O que você quer dizer com isso... ?"
 
 # game/scripts/kali_events.rpy:9781
 translate pt_br luciafriend_fba954d0:
 
     # lu "Oh nothing... You're pretty cute though! Like a little toy doll!"
-    lu ""
+    lu "Oh nada... Mas você é uma fofa! Tipo uma bonequinha!"
 
 # game/scripts/kali_events.rpy:9783
 translate pt_br luciafriend_3f9655b6:
 
     # l "O-Oh! Umm... Thanks?"
-    l ""
+    l "O-Oh! Umm... Obrigada?"
 
 # game/scripts/kali_events.rpy:9784
 translate pt_br luciafriend_a409be60:
 
     # lu "So tell me Lin, what do you and Kali do together?"
-    lu ""
+    lu "Então, me diga Lin, o que você e a Kali fazem juntas?"
 
 # game/scripts/kali_events.rpy:9785
 translate pt_br luciafriend_4ebebaa2:
 
     # l "Hmmm... Sometimes we hang out I guess, I watched her play games a couple times and she loves it when I cook her tacos!"
-    l ""
+    l "Hmmm... As vezes agente bate papo eu acho, eu assisti ela jogar uns jogos algumas vezes, e ela adora quando eu preparo tacos pra ela!"
 
 # game/scripts/kali_events.rpy:9786
 translate pt_br luciafriend_a89ca33d:
 
     # lu "Oh that's boring... Come on, you guys are best friends right? Haven't you done anything more... intimate?"
-    lu ""
+    lu "Oh que chato... Qualé, vocês são melhores amigas, né? Cês não fazem nada mais... íntimo?"
 
 # game/scripts/kali_events.rpy:9788
 translate pt_br luciafriend_6591f4de:
 
     # l "W-What!? N-No!"
-    l ""
+    l "Q-Que!? N-Não!"
 
 # game/scripts/kali_events.rpy:9789
 translate pt_br luciafriend_b6cfb8a0:
 
     # lu "Ooooh, you're hiding something..."
-    lu ""
+    lu "Ooooh, cê tá escondendo algo..."
 
 # game/scripts/kali_events.rpy:9790
 translate pt_br luciafriend_01fc63bf:
 
     # l "No I'm not!"
-    l ""
+    l "Não, eu não estou!"
 
 # game/scripts/kali_events.rpy:9792
 translate pt_br luciafriend_1b2bf967:
 
     # a "What's with all the noise in here!? Who are you!?"
-    a ""
+    a "Qualé a dessa barulheira toda!? Quem é você!?"
 
 # game/scripts/kali_events.rpy:9793
 translate pt_br luciafriend_267ec1cf:
 
     # lu "Oh~ There are so many cute girls here."
-    lu ""
+    lu "Oh~ Tantas garotas fofas morando aqui."
 
 # game/scripts/kali_events.rpy:9794
 translate pt_br luciafriend_631fcd83:
 
     # lu "Who are you? Another one of Kali's friends?"
-    lu ""
+    lu "Quem é você? Outra amiga da Kali?"
 
 # game/scripts/kali_events.rpy:9795
 translate pt_br luciafriend_7f13bb31:
 
     # a "The better question is who are YOU? And what are you doing in Kali's room?"
-    a ""
+    a "Eu que pergunto, quem é você? E o que está fazendo no quarto da Kali?"
 
 # game/scripts/kali_events.rpy:9796
 translate pt_br luciafriend_57b73f4d:
 
     # lu "I'm Lucy, Kali's sister."
-    lu ""
+    lu "Eu me chamo Lucy, sou a irmã da Kali."
 
 # game/scripts/kali_events.rpy:9797
 translate pt_br luciafriend_ab779b40:
 
     # a "Kali has a sister!? We don't need another one of your kind in this place!"
-    a ""
+    a "A Kali tem uma irmã!? Agente não precisa de outra do seu tipo nesse lugar!"
 
 # game/scripts/kali_events.rpy:9798
 translate pt_br luciafriend_1ff501d6:
 
     # lu "What do you mean my kind?"
-    lu ""
+    lu "Como assim do meu tipo?"
 
 # game/scripts/kali_events.rpy:9799
 translate pt_br luciafriend_81f25c98:
 
     # a "Big titted sluts like you!"
-    a ""
+    a "Putas tetudas como você!"
 
 # game/scripts/kali_events.rpy:9800
 translate pt_br luciafriend_053780d0:
 
     # lu "Don't worry, I'm sure your breasts will grow, haha!"
-    lu ""
+    lu "Não se preocupe, eu tenho certeza que seus peitos vão crescer algum dia, haha!"
 
 # game/scripts/kali_events.rpy:9801
 translate pt_br luciafriend_6d8a391e:
 
     # a "Don't laugh at me!"
-    a ""
+    a "Não ria de mim!"
 
 # game/scripts/kali_events.rpy:9803
 translate pt_br luciafriend_51a3f971:
 
     # lu "Hey, do you guys want to see some of Kali's pictures when she was fat?"
-    lu ""
+    lu "Ei, vocês querem ver umas fotos da Kali quando ela era gordinha?"
 
 # game/scripts/kali_events.rpy:9804
 translate pt_br luciafriend_828b688c:
 
     # l "She was fat?"
-    l ""
+    l "Ela era gorda?"
 
 # game/scripts/kali_events.rpy:9805
 translate pt_br luciafriend_7634ce82:
 
     # a "Wait, you have those kinds of pictures?"
-    a ""
+    a "Espera, você tem essas fotos dela?"
 
 # game/scripts/kali_events.rpy:9807
 translate pt_br luciafriend_1dc94208:
 
     # lu "Yeah! Wanna see?"
-    lu ""
+    lu "Sim! Querem ver?"
 
 # game/scripts/kali_events.rpy:9808
 translate pt_br luciafriend_19dbb902:
 
     # a "Really? I mean... Yes!"
-    a ""
+    a "Sério? Quer dizer... Claro!"
 
 # game/scripts/kali_events.rpy:9809
 translate pt_br luciafriend_421403b1:
 
     # lu "Cool, come on!"
-    lu ""
+    lu "Legal, olha só!"
 
 # game/scripts/kali_events.rpy:9811
 translate pt_br luciafriend_a60697b6:
 
     # a "Hehehe! She was so fat!"
-    a ""
+    a "Hehehe! Ela era tão gorda!"
 
 # game/scripts/kali_events.rpy:9812
 translate pt_br luciafriend_9c0cb6f0:
 
     # l "Awww! She's so cute! I just want to hug little fat Kali!"
-    l ""
+    l "Awww! Ela era fofa! Eu só quero abraçar essa Kali gordinha!"
 
 # game/scripts/kali_events.rpy:9813
 translate pt_br luciafriend_8ba02bd2:
 
     # a "You should send all of those pictures to me!"
-    a ""
+    a "Me manda essas fotos depois!"
 
 # game/scripts/kali_events.rpy:9814
 translate pt_br luciafriend_1b1c7f6e:
 
     # lu "She wouldn't like that..."
-    lu ""
+    lu "Ela não iria gostar disso..."
 
 # game/scripts/kali_events.rpy:9815
 translate pt_br luciafriend_c98bf17d:
 
     # a "So? Just send them!"
-    a ""
+    a "E? Só me manda!"
 
 # game/scripts/kali_events.rpy:9816
 translate pt_br luciafriend_ecd4b6c3:
 
     # lu "You're not going to do anything bad with these pictures, are you?"
-    lu ""
+    lu "Você não vai fazer nada malvado com essas fotos, vai?"
 
 # game/scripts/kali_events.rpy:9817
 translate pt_br luciafriend_04ade114:
 
     # a "What? No!"
-    a ""
+    a "Que? Não!"
 
 # game/scripts/kali_events.rpy:9818
 translate pt_br luciafriend_03ca2737:
 
     # lu "Well okay..."
-    lu ""
+    lu "Bem, certo..."
 
 # game/scripts/kali_events.rpy:9819
 translate pt_br luciafriend_0e6f7495:
 
     # a "Hehehe~"
-    a ""
+    a "Hehehe~"
 
 # game/scripts/kali_events.rpy:9821
 translate pt_br luciafriend_7f6129e2:
 
     # k "What the fuck is going on here?"
-    k ""
+    k "Que porra tá acontecendo aqui?"
 
 # game/scripts/kali_events.rpy:9822
 translate pt_br luciafriend_f1662ece:
 
     # lu "Kali! What are you doing back? I thought you were at work."
-    lu ""
+    lu "Kali! Já voltou? Eu pensei que tinha ido trabalhar."
 
 # game/scripts/kali_events.rpy:9823
 translate pt_br luciafriend_3f7d45a9:
 
     # k "I forgot my headband..."
-    k ""
+    k "Eu esqueci minha tiara..."
 
 # game/scripts/kali_events.rpy:9824
 translate pt_br luciafriend_cb87743c:
 
     # l "Kali you used to be so fat!"
-    l ""
+    l "Kali, você era tão gordinha!"
 
 # game/scripts/kali_events.rpy:9825
 translate pt_br luciafriend_63849d6f:
 
     # k "W-What?"
-    k ""
+    k "Q-Que?"
 
 # game/scripts/kali_events.rpy:9826
 translate pt_br luciafriend_a544233a:
 
     # a "Hehehe~ Like a big marshmallow!"
-    a ""
+    a "Hehehe~ igualzinha um grande marshmallow!"
 
 # game/scripts/kali_events.rpy:9827
 translate pt_br luciafriend_50035e17:
 
     # k "What the fuck did you show them Lucy?"
-    k ""
+    k "Mas que porra você mostrou pra elas, Lucy?"
 
 # game/scripts/kali_events.rpy:9828
 translate pt_br luciafriend_9f4821ea:
 
     # lu "Whaaat? I thought it was an interesting part of your life..."
-    lu ""
+    lu "Oqueee? Eu pensei que era uma parte interessante da sua vida..."
 
 # game/scripts/kali_events.rpy:9830
 translate pt_br luciafriend_c31fbafd:
 
     # k "S-Shit! You didn't show [name] did you!?"
-    k ""
+    k "M-Merda! Você não mostrou pro [name], mostrou!?"
 
 # game/scripts/kali_events.rpy:9831
 translate pt_br luciafriend_06a8ea1a:
 
     # lu "Oh don't worry... I knew you wouldn't want me to show him that..."
-    lu ""
+    lu "Oh, não se preocupe... Eu sei que você não gostaria que eu mostrasse pra ele..."
 
 # game/scripts/kali_events.rpy:9832
 translate pt_br luciafriend_a1798267:
 
     # a "Kali you should get fat again! Like REALLY fat!"
-    a ""
+    a "Kali, você devia ganhar peso de novo! Tipo, muito peso!"
 
 # game/scripts/kali_events.rpy:9834
 translate pt_br luciafriend_798a857a:
 
     # k "Shut up Ashley!"
-    k ""
+    k "Cala a boca Ashley!"
 
 # game/scripts/kali_events.rpy:9835
 translate pt_br luciafriend_bf771867:
 
     # k "All of you get out!"
-    k ""
+    k "Todos vocês, fora!"
 
 # game/scripts/kali_events.rpy:9836
 translate pt_br luciafriend_bed134a1:
 
     # a "Hmph! Fine."
-    a ""
+    a "Hmph! Beleza."
 
 # game/scripts/kali_events.rpy:9838
 translate pt_br luciafriend_23baee2f:
 
     # k "Can I really not leave you alone for 5 minutes without you messing something up?"
-    k ""
+    k "É sério que eu não posso te deixar sozinha por 5 minutos sem que você estrague alguma coisa?"
 
 # game/scripts/kali_events.rpy:9839
 translate pt_br luciafriend_0e7f6909:
 
     # lu "Okay, okay... I get it. I'm sorry sis!"
-    lu ""
+    lu "Ok, ok... Eu entendo, desculpa mana!"
 
 # game/scripts/kali_events.rpy:9840
 translate pt_br luciafriend_d36c51b0:
 
     # k "Just stay away from my shit please? And stay away from [name] too."
-    k ""
+    k "Só fique longe das minhas coisas, por favor? E fique longe do [name] também."
 
 # game/scripts/kali_events.rpy:9841
 translate pt_br luciafriend_4904f59c:
 
     # lu "Don't worry, I'm not trying to steal him away from you."
-    lu ""
+    lu "Não se preocupa, eu não tô tentando roubar ele de você."
 
 # game/scripts/kali_events.rpy:9843
 translate pt_br luciafriend_9c4b0d83:
 
     # lu "But if he wanted to have some fun..."
-    lu ""
+    lu "Mas se ele quiser se divertir um pouco..."
 
 # game/scripts/kali_events.rpy:9844
 translate pt_br luciafriend_c78c5fcd:
 
     # k "Grr..."
-    k ""
+    k "Grr..."
 
 # game/scripts/kali_events.rpy:9846
 translate pt_br luciafriend_de71af90:
 
     # lu "Okay... Fine. No seducing either... You're the boss sis."
-    lu ""
+    lu "Certo... Beleza. Sem sedução também... Você quem manda, mana."
 
 # game/scripts/kali_events.rpy:9847
 translate pt_br luciafriend_f993cc37:
 
     # k "Thank you..."
-    k ""
+    k "Obrigada..."
 
 # game/scripts/kali_events.rpy:9848
 translate pt_br luciafriend_36de54c1:
 
     # k "Now that that's settled..."
-    k ""
+    k "Agora que tá tudo resolvido..."
 
 # game/scripts/kali_events.rpy:9850
 translate pt_br luciafriend_87c1d82d:
 
     # k "I'm going to head back to work now, see you later [name]."
-    k ""
+    k "Eu vou voltar pro trabalho, até mais tarde, [name]."
 
 # game/scripts/kali_events.rpy:9856
 translate pt_br luciajoin_62e123cc:
