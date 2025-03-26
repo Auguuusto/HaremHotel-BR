@@ -15532,109 +15532,109 @@ translate pt_br kali_botwork_fa07b31b:
 translate pt_br kali_stressfuck_219138b5:
 
     # k "{size=-10}{i}Tsk... what the fuck...{/i}{/size}"
-    k ""
+    k "{size=-10}{i}Tsk... mas que porra...{/i}{/size}"
 
 # game/scripts/kali_events.rpy:4163
 translate pt_br kali_stressfuck_5e3ba6da:
 
     # c "Hey Kali."
-    c ""
+    c "Ei, Kali."
 
 # game/scripts/kali_events.rpy:4165
 translate pt_br kali_stressfuck_60fd1d2e:
 
     # k "*gasp*! Oh... it's just you... the light scared me, sensors must have noticed you..." with ssshake
-    k "" with ssshake
+    k "*suspiro*! Oh... é você... a luz me assustou, os sensores devem ter te notado..." with ssshake
 
 # game/scripts/kali_events.rpy:4167
 translate pt_br kali_stressfuck_0e375f17:
 
     # k "Heyyy, you made it. Did you bring my clothes?"
-    k ""
+    k "E aí, você veio. Trouxe as minhas roupas?"
 
 # game/scripts/kali_events.rpy:4168
 translate pt_br kali_stressfuck_9caccf31:
 
     # c "Yep, I think they're Lucy's... but it looked comfortable."
-    c ""
+    c "Sim, eu acho que são da Lucy... mas parece comfortável."
 
 # game/scripts/kali_events.rpy:4169
 translate pt_br kali_stressfuck_935b182a:
 
     # k "Thanks... I'll change now."
-    k ""
+    k "Obrigada... Eu vou me trocar agora."
 
 # game/scripts/kali_events.rpy:4172
 translate pt_br kali_stressfuck_813c0779:
 
     # k "Seriously... pink? A dress...!?"
-    k ""
+    k "Sério... rosa? Um vestido... !?"
 
 # game/scripts/kali_events.rpy:4173
 translate pt_br kali_stressfuck_47cdea72:
 
     # c "You said comfortable..."
-    c ""
+    c "Você disse que tinha que ser comfortável..."
 
 # game/scripts/kali_events.rpy:4175
 translate pt_br kali_stressfuck_16fb1e5c:
 
     # k "*sigh*... whatever, it's just you and me anyway... It feels so nice to finally let my hair down..."
-    k ""
+    k "*suspiro*... tanto faz, só tem você e eu aqui de qualquer forma... Que bom finalmente poder soltar meu cabelo..."
 
 # game/scripts/kali_events.rpy:4177
 translate pt_br kali_stressfuck_9323d548:
 
     # c "You don't look so well... are you sure you don't want to take a break?"
-    c ""
+    c "Você não parece bem... certeza que não quer descansar um pouco?"
 
 # game/scripts/kali_events.rpy:4179
 translate pt_br kali_stressfuck_428b52d9:
 
     # k "I can't... I've already been a lazy bitch... If I planned this out better I probably wouldn't be in this situation..."
-    k ""
+    k "Eu não posso... Eu já fui preguiçosa pra caralho... Se eu tivesse planejado melhor eu provavelmente não estaria nessa situação..."
 
 # game/scripts/kali_events.rpy:4180
 translate pt_br kali_stressfuck_c7e3f893:
 
     # k "We'll be working on a droidbot, an old delivery unit. A real one..."
-    k ""
+    k "Agente vai trabalhar em um droidbot, uma unidade de entrega antiga. Uma de verdade..."
 
 # game/scripts/kali_events.rpy:4181
 translate pt_br kali_stressfuck_17e5cbc4:
 
     # c "Like [botname]?"
-    c ""
+    c "Tipo a [botname]?"
 
 # game/scripts/kali_events.rpy:4182
 translate pt_br kali_stressfuck_3de3d80b:
 
     # k "No, droidbots aren't quite as... intelligent? Is that the right word...?"
-    k ""
+    k "Não, droidbots não são tão... inteligentes? É essa a palavra... ?"
 
 # game/scripts/kali_events.rpy:4183
 translate pt_br kali_stressfuck_f75c5a41:
 
     # k "I don't know... droidbots can't speak or handle hundreds of complex tasks like androids can, droidbots are meant to handle one task at a time like delivery. But they aren't quite as simple as robots, like the kind you would find assembling cars."
-    k ""
+    k "Eu não sei... droidbots não podem falar ou fazer centenas de tarefas complexas como androids podem, droidbots são feitos para realizar apenas uma tarefa como entregar alguma coisa. Mas eles não tão simples como robôs, como os tipos que você encontraria montando carros."
 
 # game/scripts/kali_events.rpy:4184
 translate pt_br kali_stressfuck_1003618e:
 
     # k "It's due in a few days and I barely understand how to make these arms move! Hnnnnngh..."
-    k ""
+    k "O prazo é daqui alguns dias e eu mal entendo como fazer os braços se moverem! Hnnnnngh..."
 
 # game/scripts/kali_events.rpy:4186
 translate pt_br kali_stressfuck_0cc29a6c:
 
     # k "Thanks for stopping by though, it really means a lot... I'll be able to get a few more hours of work in thanks to you..."
-    k ""
+    k "Obrigada por vir até aqui, significa muito pra mim... Eu conseguirei mais algumas horas de trabalho graças a você..."
 
 # game/scripts/kali_events.rpy:4187
 translate pt_br kali_stressfuck_e0f4d45d:
 
     # c "Don't push yourself... I'm surprised they even let students like you stay this late."
-    c ""
+    c "Não se esforçe tanto... Estou surpreso que eles deixam estudantes ficar aqui até tão tarde."
 
 # game/scripts/kali_events.rpy:4188
 translate pt_br kali_stressfuck_1afb6ba5:
@@ -21268,7 +21268,7 @@ translate pt_br kalivtwo_75572ab4:
 translate pt_br kalivtwo_f7ce6622:
 
     # lu "Ohh, college stuff. Don't let this one get away, [name]. What happens in college, doesn't often stay in college..."
-    lu "Ohh, coisas da faculdade. Não deixa escapar, [name]. Oque acontece na faculdade, normalmente não fica na faculdade..."
+    lu "Ohh, coisas da faculdade. Não deixe esse escapar, [name]. Oque acontece na faculdade, normalmente não fica na faculdade..."
 
 # game/scripts/kali_events.rpy:5730
 translate pt_br kalivtwo_d4d366b1:
@@ -21532,7 +21532,7 @@ translate pt_br kalicollegetest_68a101a5:
 translate pt_br kalicollegetest_74cf25f9:
 
     # c "Haha, alright, I'll leave you two to it."
-    c "Haha, certo, eu vou deixar vocês à sós."
+    c "Haha, certo, eu vou deixar vocês duas à sós."
 
 # game/scripts/kali_events.rpy:5815
 translate pt_br kalicollegetest_3be8bd03:
@@ -25132,7 +25132,7 @@ translate pt_br kaliapp_be399ab0:
 translate pt_br kaliapp_6e6e7e86:
 
     # lu "Hmmmm...? It still looks like scribbles to me..."
-    lu "Hmmmm...? Isso parece rascunhos pra mim..."
+    lu "Hmmmm...? Isso ainda parece um rascunhoFF pra mim..."
 
 # game/scripts/kali_events.rpy:6768
 translate pt_br kaliapp_4e229ba8:
@@ -25858,13 +25858,13 @@ translate pt_br kalirplay_7cc9e56f:
 translate pt_br kalirplay_4a5fbc83:
 
     # k "NNGH! SSSTOMM! MMM!" with ssshake
-    k "NNGH! SSSTOMM! MMM!" with ssshake
+    k "NNGH! PARMM! MMM!" with ssshake
 
 # game/scripts/kali_events.rpy:6964
 translate pt_br kalirplay_a9e00b5e:
 
     # c "Calm down."
-    c "Se acalma."
+    c "Calma."
 
 # game/scripts/kali_events.rpy:6965
 translate pt_br kalirplay_dc5da507:
@@ -26194,7 +26194,7 @@ translate pt_br kalirplay_ecf63373:
 translate pt_br kalirplay_744e7623:
 
     # k "Fuck... You're being really rough [name]..."
-    k "Porra... você está sendo muito bruto [name]..."
+    k "Porra... você tá sendo muito bruto [name]..."
 
 # game/scripts/kali_events.rpy:7071
 translate pt_br kalirplay_b15f9d5d:
@@ -26554,7 +26554,7 @@ translate pt_br kaliprefetish_32619026:
 translate pt_br kaliprefetish_d08d3c12:
 
     # c "Rape play... Hm, well I can't say I'm surprised. She does like it rough..."
-    c "Fantasia de estupro... Hm, bem não posso dizer que estou surpreso. Ela gosta de fazer isso bruto..."
+    c "Fantasia de estupro... Hm, bem não posso dizer que estou surpreso. Ela gosta de fazer bruto..."
 
 # game/scripts/kali_events.rpy:7180
 translate pt_br kaliprefetish_3ea33ddd:
@@ -26632,7 +26632,7 @@ translate pt_br kaliprefetish_d8296d4d:
 translate pt_br kaliprefetish_b0cf988e:
 
     # c "On second thought, it's not really my thing..."
-    c ""
+    c "Parando pra pensar, acho que não é uma boa idéia..."
 
 # game/scripts/kali_events.rpy:7220
 translate pt_br kalimaidmaid_9b536d5d:
@@ -28714,7 +28714,7 @@ translate pt_br mariellaquestion_d743121d:
 translate pt_br mariellaquestion_2b73f2e0:
 
     # "Your phone beeps. You look at the notifications and you can see a deposit of $10,000 directly in to your bank account."
-    "O seu telefone toca. Você olha para as notificações e você ve um depósito de $10.000 diretamente na sua conta bancária."
+    "O seu telefone toca. Você olha para as notificações e vê um depósito de $10.000 diretamente na sua conta bancária."
 
 # game/scripts/kali_events.rpy:7814
 translate pt_br lucyroomchoices_60a0ada7:
@@ -30874,7 +30874,7 @@ translate pt_br kananal_e33ca7b1:
 translate pt_br kananal_48514d21:
 
     # k "[name]... The girl who wears this gets fucked in the ass so much she turns into an anal whore..."
-    k "[name]... A garota que usa isso é fodida na bunda tanto que ela vira vagabunda..."
+    k "[name]... A garota que usa isso é fodida na bunda tanto que ela vira uma vagabunda..."
 
 # game/scripts/kali_events.rpy:8548
 translate pt_br kananal_dd6bd3c5:
@@ -31048,7 +31048,7 @@ translate pt_br kananal_b2ee035d:
 translate pt_br kananal_f23ce54b:
 
     # "You've unlocked anal sex with Kali!"
-    "Você desbloqueou sexo anal com a Kali!"
+    "Você desbloqueou sexo anal com Kali!"
 
 # game/scripts/kali_events.rpy:8605
 translate pt_br kananal_039ad430:
